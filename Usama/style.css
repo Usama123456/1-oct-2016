@@ -1,0 +1,23 @@
+#a {
+    width: 1000px;
+    height: 900px;
+    background: black;
+    margin: auto;
+    border-radius: 5px;
+}
+
+#b {
+    width: 900px;
+    height: 800px;
+    position: absolute;
+    top: 60px;
+    left: 190px;
+    background: white;
+    border-radius: 5px;
+    
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
